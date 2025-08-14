@@ -7,7 +7,7 @@ Atualmente estudo C++, JavaScript, SQL, HTML, CSS e Tailwind, e estou sempre bus
 
 ---
 
-### 🤖 Tecnologias e Linguagens
+### Tecnologias e Linguagens
 
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -21,7 +21,7 @@ Atualmente estudo C++, JavaScript, SQL, HTML, CSS e Tailwind, e estou sempre bus
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img align="left" alt="GitHub Stats" height="180" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=LeandroOL9&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
