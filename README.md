@@ -1,9 +1,8 @@
 # 👨‍💻 Leandro Oliveira
 
-**`Estudante de Sistemas para Internet`**
+**`Desenvolvedor Back-end`**
 
-Me chamo Leandro Oliveira e estou iniciando minha jornada em desenvolvimento de software.  
-Atualmente estudo C++, JavaScript, SQL, HTML, CSS e Tailwind, e estou sempre buscando aprender mais e criar projetos interessantes.  
+Me chamo Leandro Oliveira e atuo como desenvolvedor back-end, com foco em criar soluções eficientes e escaláveis. Sou motivado por desafios e estou sempre buscando aprimorar minhas habilidades, colaborar em projetos inovadores e entregar software de qualidade.
 
 ---
 
