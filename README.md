@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Leandro Oliveira e atuo como desenvolvedor back-end, com foco em criar soluções eficientes e escaláveis. Sou motivado por desafios e estou sempre buscando aprimorar minhas habilidades, colaborar em projetos inovadores e entregar software de qualidade.
-
 ---
 
 ### Tecnologias e Linguagens
